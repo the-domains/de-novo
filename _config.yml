@@ -1,4 +1,3 @@
-layout_spectrum: 0.45307016326114535
 typography_spectrum: 0.8092332356609404
 color:
   brandStrength: 0.3497060246299952
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.45307016326114535
 name: DE NOVO
 title: 'RENEWABLE ENERGY '
+description: FOR PENSION FUNDS
